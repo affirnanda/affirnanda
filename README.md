@@ -74,19 +74,18 @@ Learning: Scalable Applications & Modern Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,AntiGravity Ideas" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
 
 </div>
 
-
+<br>
 
 <div align="center">
 
 🚀 Skilled in developing modern digital solutions
-💡 Able to create <b>AntiGravity Ideas</b> — innovative, out-of-the-box concepts that combine technology, creativity, and business strategy.
+💡 Capable of creating <b>AntiGravity Ideas</b> — innovative, futuristic, and out-of-the-box concepts that combine technology, creativity, and business strategy.
 
 </div>
-
 
 ---
 
