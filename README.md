@@ -78,6 +78,16 @@ Learning: Scalable Applications & Modern Technologies
 
 </div>
 
+<br>
+
+<div align="center">
+
+🚀 Skilled in developing modern digital solutions
+💡 Able to create <b>AntiGravity Ideas</b> — innovative, out-of-the-box concepts that combine technology, creativity, and business strategy.
+
+</div>
+
+
 ---
 
 # 🚀 Currently Exploring
