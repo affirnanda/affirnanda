@@ -76,6 +76,10 @@ Learning: Scalable Applications & Modern Technologies
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
 
+<br><br>
+
+<img src="https://img.shields.io/badge/AntiGravity-Ideas-6C63FF?style=for-the-badge&logo=rocket&logoColor=white" />
+
 </div>
 
 <br>
