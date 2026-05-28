@@ -74,11 +74,11 @@ Learning: Scalable Applications & Modern Technologies
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,npm,antigravity" />
 
 </div>
 
-<br>
+
 
 <div align="center">
 
