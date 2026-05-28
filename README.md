@@ -80,6 +80,29 @@ Learning: Scalable Applications & Modern Technologies
 
 ---
 
+# 🚀 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Technology-00C2FF?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/Business%20Analysis-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Modern%20Web%20Apps-00C896?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20Design-FF6B6B?style=for-the-badge"/>
+
+</div>
+
+---
+
+# 🌌 AntiGravity Animation
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+
+</div>
+
+---
+
 # 🎨 Current Interests
 
 <div align="center">
